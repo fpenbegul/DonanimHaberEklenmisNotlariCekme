@@ -1,2 +1,2 @@
 # DonanimHaberNotCekme
-Kullanıcılara eklediğiniz notları tüm kullanıcıları , eklenmiş notları mongodb'ye   kaydeder..
+Kullanıcılara eklediğiniz notları tüm kullanıcıları gezerek, eklenmiş notları mongodb'ye   kaydeder..
